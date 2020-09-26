@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For controlKeyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+controlKeyboard	KEYWORD1	controlKeyboardConstructor
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+onKeyPress	KEYWORD2
+onKeyRelease	KEYWORD2
+setDefault	KEYWORD2
+getKeyup	KEYWORD2
+getKeydown	KEYWORD2
+getModifiers	KEYWORD2
+getOemkey	KEYWORD2
+OnKeyDown	KEYWORD2
+OnKeyUp		KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+KEY_ARRAY_SIZE	LITERAL1
